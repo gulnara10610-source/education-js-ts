@@ -1,2 +1,2 @@
-Owner: A
-Plan: A only
+Owner: C
+Plan: C only
