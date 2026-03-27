@@ -1,2 +1,1 @@
-Owner: C
-Plan: C only
+Resolved: yes
